@@ -1,0 +1,10 @@
+2022-09-13 16:29:43,496 INFO by.stest.base.Page [main] Config file loaded!!!
+2022-09-13 16:29:43,500 INFO by.stest.base.Page [main] OR file loaded!!!
+2022-09-13 16:29:50,150 INFO by.stest.base.Page [main] Navigated to: https://www.zoho.com/
+2022-09-13 16:29:51,142 INFO by.stest.base.Page [main] Clicking on element: signInLnk_CSS
+2022-09-13 16:29:52,579 INFO by.stest.base.Page [main] Clicking on element: signUpLnk_CSS
+2022-09-13 16:29:53,254 INFO by.stest.base.Page [main] Clicking on element: signInLnk_CSS
+2022-09-13 16:29:53,347 INFO by.stest.base.Page [main] Typing in: emailFld_ID entered value as: stest.siarhei@gmail.com
+2022-09-13 16:29:53,388 INFO by.stest.base.Page [main] Clicking on element: nextBtn_ID
+2022-09-13 16:29:54,679 INFO by.stest.base.Page [main] Typing in: passwdFld_ID entered value as: Test123456__
+2022-09-13 16:29:54,712 INFO by.stest.base.Page [main] Clicking on element: signInBtn_XPATH
