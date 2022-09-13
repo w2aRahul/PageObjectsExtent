@@ -106,4 +106,19 @@ public class CustomListeners extends Page implements ITestListener, ISuiteListen
 			extent.flush();
 		}
 	}
+
+	public void onStart(ISuite suite) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onStart(ITestContext context) {
+		// TODO Auto-generated method stub
+		
+	}
 }
